@@ -1,0 +1,14 @@
+Package: codecs-antix-dbgsym
+Source: codecs-antix
+Version: 16.13
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: anticapitalista <antix@operamail.com>
+Installed-Size: 426
+Depends: codecs-antix (= 16.13)
+Section: debug
+Priority: extra
+Homepage: https://github.com/AdrianTM/mx-codecs
+Description: Debug symbols for codecs-antix
+Build-Ids: f0d4ffb464fd7024554569af9c0852a2f77c500f
+Original-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>

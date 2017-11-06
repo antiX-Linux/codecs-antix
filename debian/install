@@ -1,0 +1,6 @@
+codecs 			usr/sbin
+codecs.desktop	 	usr/share/applications/antix
+codecs.png            	usr/share/pixmaps
+translations/*.qm 	usr/share/codecs/locale
+icons/*                 usr/share/codecs/icons
+license.html		usr/share/doc/codecs

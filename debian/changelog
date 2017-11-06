@@ -1,0 +1,107 @@
+codecs-antix (16.13) unstable; urgency=medium
+
+  * Show in Applications menu
+
+ -- anticapitalista <antix@operamail.com>  Sat, 07 Oct 2017 23:07:22 +0300
+
+codecs-antix (16.12) unstable; urgency=medium
+
+  * Removed MX branding
+
+ -- anticapitalista <antix@operamail.com>  Tue, 14 Mar 2017 18:33:35 +0200
+
+mx-codecs (16.11mx16+1) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 30 Nov 2016 10:37:15 -0500
+
+mx-codecs (16.11mx16) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 16 Nov 2016 11:43:23 -0500
+
+mx-codecs (16.10mx16) mx; urgency=medium
+
+  * Changed URLs 
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 10 Oct 2016 12:59:34 -0400
+
+mx-codecs (16.1mx15) mx; urgency=medium
+
+  * updated .desktop file 
+
+ -- dolphinoracle <dolphinoracle@gmail.com>  Sun, 22 May 2016 20:42:09 -0400
+
+mx-codecs (15.12mx15) mx; urgency=medium
+
+  * hide GUI when displaying help/license
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 22 Dec 2015 18:41:26 -0500
+
+mx-codecs (15.11mx15) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 30 Nov 2015 11:49:23 -0500
+
+mx-codecs (15.10mx15) mx; urgency=medium
+
+  * new translations
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 23 Oct 2015 14:11:25 -0400
+
+mx-codecs (15.7.1mx15) mx; urgency=medium
+
+  * update license, added additional build-deps
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 09 Jul 2015 19:43:56 -0400
+
+mx-codecs (15.7mx15) mx; urgency=medium
+
+  * update to qt5
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 30 Jun 2015 12:48:27 -0400
+
+mx-codecs (15.6mx14) mx; urgency=medium
+
+  * changed documentation URL
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 03 Jun 2015 11:16:45 -0400
+
+mx-codecs (15.4mx14) mx; urgency=medium
+
+  * added translation
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 21 Apr 2015 13:59:21 -0400
+
+mx-codecs (15.3mx14) mx; urgency=medium
+
+  * changed help URL
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 20 Mar 2015 16:45:30 -0400
+
+mx-codecs (15.2) mx; urgency=medium
+
+  * changed help URL
+
+ -- Adrian <adrian@mxlinux.org>  Sun, 15 Feb 2015 11:25:43 -0500
+
+mx-codecs (0.14.1mx141+3) mx; urgency=low
+
+  * translated button
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 25 Jun 2014 10:24:24 -0400
+
+mx-codecs (0.14.1mx141+1.2) mx; urgency=low
+
+  * Update languages 
+
+ -- Adrian <adrian@mxlinux.org>  Tue, 17 Jun 2014 13:33:39 -0400
+
+mx-codecs (0.13.98+git20140221-mx140+1) mx; urgency=low
+
+  * Initial packaging.
+
+ -- Steven Pusser (Stevo) <maintainer@mepiscommunity.org>  Sat, 22 Feb 2014 07:10:53 -0800

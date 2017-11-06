@@ -1,0 +1,22 @@
+Source: codecs-antix
+Section: system
+Priority: optional
+Maintainer: anticapitalista <antix@operamail.com>
+XSBC-Original-Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Build-Depends: qt5-qmake,
+	qt5-default,
+	qttools5-dev-tools,
+	debhelper (>=9.20120115)
+Standards-Version: 3.9.8
+Homepage: https://github.com/AdrianTM/mx-codecs
+
+Package: codecs-antix
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}, gksu, mx-viewer
+Description: restricted codecs installer
+ The Codecs Installer provides an easy way to install certain codecs that can 
+ not be included on the iso, due to legal issues in some jurisdictions.  i.e
+ libdvdcss2 and w32codecs.  Please check to see if these are legal
+ in your jurisdiction.  For the most part, users would only need libdvdcss2 for 
+ commercial DVD playback, most of the codecs in the other two packages are now
+ provided in open media players.
