@@ -12,7 +12,7 @@ Homepage: https://github.com/AdrianTM/mx-codecs
 
 Package: codecs-antix
 Architecture: any
-Depends: ${misc:Depends}, ${shlibs:Depends}, gksu, mx-viewer
+Depends: ${misc:Depends}, ${shlibs:Depends}, gksu, antix-viewer
 Description: restricted codecs installer
  The Codecs Installer provides an easy way to install certain codecs that can 
  not be included on the iso, due to legal issues in some jurisdictions.  i.e

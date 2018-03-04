@@ -44,19 +44,24 @@ HEADERS  += codecs.h
 
 FORMS    += codecs.ui
 
-TRANSLATIONS += translations/codecs_ca.ts \
+TRANSLATIONS +=  translations/codecs_am.ts \
+		translations/codecs_ca.ts \
+		translations/codecs_cs.ts \
                 translations/codecs_de.ts \
                 translations/codecs_el.ts \
                 translations/codecs_es.ts \
                 translations/codecs_fr.ts \
+		translations/codecs_hu.ts \
                 translations/codecs_it.ts \
                 translations/codecs_ja.ts \
-                translations/codecs_kk.ts \
+                translations/codecs_lt.ts \
                 translations/codecs_nl.ts \
                 translations/codecs_pl.ts \
                 translations/codecs_pt.ts \
                 translations/codecs_ro.ts \
                 translations/codecs_ru.ts \
+		translations/codecs_sk.ts \
                 translations/codecs_sv.ts \
-                translations/codecs_tr.ts
+                translations/codecs_tr.ts \
+		translations/codecs_zh_TW.ts 
 

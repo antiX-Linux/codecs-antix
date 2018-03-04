@@ -1,10 +1,10 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="nl" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="sk" version="2.1">
 <context>
     <name>QApplication</name>
     <message>
         <location filename="main.cpp" line="55"/>
         <source>You must run this program as root.</source>
-        <translation>U dient deze toepassing als &apos;root&apos; uit te voeren.</translation>
+        <translation>Tento program musíte spustiť ako root užívateľ.</translation>
     </message>
 </context>
 <context>
@@ -13,32 +13,32 @@
         <location filename="codecs.ui" line="14"/>
         <location filename="ui_codecs.h" line="173"/>
         <source>Codecs Installer</source>
-        <translation>Codecs Installeerder</translation>
+        <translation>Inštalátor kodekov</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="33"/>
         <location filename="ui_codecs.h" line="174"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;This application allows you to install restricted codecs that permit advanced video and audio functions.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;In some juridictions their distribution may be limited so the user must meet local regulations. &lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Do you assume legal responsibility for downloading these codecs?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Deze applicatie staat u toe gelimiteerde codecs te gebruiken die geavanceerde video en audio functies toestaan.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;In sommige jurisdicties kan hun distributie beperkt zijn zodat de gebruiker de lokale regels naleeft.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Neemt u de legale verantwoordelijkheid voor het downloaden van deze codecs?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Táto aplikácia vám umožní nainštalovať neslobodné kodeky a tým získať prístup k rozšíreným funkciám audia a videa.&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;V niektorých krajinách môže byť ich šírenie obmedzené, dodržovanie zákonných noriem je povinnosťou užívateľa. &lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;br/&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Beriete na seba právnu zodpovednosť za stiahnutie týchto kodekov?&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="48"/>
         <location filename="ui_codecs.h" line="175"/>
         <source>Downloading codecs files</source>
-        <translation>Codecs bestanden downloaden</translation>
+        <translation>Sťahovanie kodekov</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="102"/>
         <location filename="ui_codecs.h" line="178"/>
         <source>Cancel any changes then quit</source>
-        <translation>Iedere verandering ongedaan maken, dan afsluiten</translation>
+        <translation>Zrušit všetky zmeny a ukončiť</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="105"/>
         <location filename="codecs.cpp" line="213"/>
         <location filename="ui_codecs.h" line="180"/>
         <source>Cancel</source>
-        <translation>Ongedaan maken</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="112"/>
@@ -50,7 +50,7 @@
         <location filename="codecs.ui" line="122"/>
         <location filename="ui_codecs.h" line="183"/>
         <source>Apply any changes then quit</source>
-        <translation>Veranderingen toepassen en afsluiten</translation>
+        <translation>Použiť všetky zmeny a ukončiť</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="125"/>
@@ -62,13 +62,13 @@
         <location filename="codecs.ui" line="180"/>
         <location filename="ui_codecs.h" line="189"/>
         <source>About this application</source>
-        <translation>Over deze toepassing</translation>
+        <translation>O tejto aplikácii</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="183"/>
         <location filename="ui_codecs.h" line="191"/>
         <source>About...</source>
-        <translation>Over...</translation>
+        <translation>O Programe</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="190"/>
@@ -80,13 +80,13 @@
         <location filename="codecs.ui" line="219"/>
         <location filename="ui_codecs.h" line="194"/>
         <source>Display help </source>
-        <translation>Toon help</translation>
+        <translation>Zobraziť nápovedu</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="222"/>
         <location filename="ui_codecs.h" line="196"/>
         <source>Help</source>
-        <translation>Hulp</translation>
+        <translation>Pomocník</translation>
     </message>
     <message>
         <location filename="codecs.ui" line="229"/>
@@ -100,7 +100,7 @@
         <location filename="codecs.cpp" line="129"/>
         <location filename="codecs.cpp" line="136"/>
         <source>&lt;b&gt;Running command...&lt;/b&gt;&lt;p&gt;</source>
-        <translation>&lt;b&gt;Commando uitvoeren...&lt;/b&gt;&lt;p&gt;</translation>
+        <translation>&lt;b&gt;Spúšťam príkaz...&lt;/b&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="117"/>
@@ -109,84 +109,84 @@
         <location filename="codecs.cpp" line="166"/>
         <location filename="codecs.cpp" line="192"/>
         <source>Error</source>
-        <translation>Fout</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="118"/>
         <location filename="codecs.cpp" line="133"/>
         <source>Cannot connect to the download site</source>
-        <translation>Kan geen verbinding maken met de download site</translation>
+        <translation>Pripojenie k stránke sťahovania sa nezdarilo </translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="124"/>
         <location filename="codecs.cpp" line="139"/>
         <source>Error downloading %1</source>
-        <translation>Download fout %1</translation>
+        <translation>Chyba sťahovania %1</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="143"/>
         <source>&lt;b&gt;Download Finished.&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Download beëindigd.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Sťahovanie dokončené.&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="162"/>
         <source>Installing downloaded files</source>
-        <translation>Gedownloade bestanden installeren</translation>
+        <translation>Inštalácia stiahnutých súborov</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="167"/>
         <source>No downloaded *.debs files found.</source>
-        <translation>Geen gedownloade *.deb bestanden gevonden.</translation>
+        <translation>Nenašli sa žiadne stiahnuté *.deb súbory.</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="174"/>
         <source>&lt;b&gt;Installing...&lt;/b&gt;&lt;p&gt;</source>
-        <translation>&lt;b&gt;Installeren...&lt;/b&gt;&lt;p&gt;</translation>
+        <translation>&lt;b&gt;Inštalácia...&lt;/b&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="177"/>
         <source>Error installing %1</source>
-        <translation>Fout bij installeren %1</translation>
+        <translation>Chyba inštalácie %1</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="185"/>
         <source>&lt;b&gt;Installation process has finished&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Installatieproces is beëindigd&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Inštalačný proces bol dokončený&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="188"/>
         <source>Finished</source>
-        <translation>Voltooid</translation>
+        <translation>Hotovo</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="189"/>
         <source>Codecs files have been downloaded and installed successfully.</source>
-        <translation>De codecs bestanden zijn gedownload en succesvol geïnstalleerd.</translation>
+        <translation>Súbory kodekov boli úspešne stiahnuté a nainštalované.</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="193"/>
         <source>Process finished. Errors have occurred during the installation.</source>
-        <translation>Proces beëindigd. Er hebben zich fouten voorgedaan tijdens de installatie.</translation>
+        <translation>Proces dokončený. Počas inštalácie sa objavili chyby.</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="207"/>
         <source>About Codecs</source>
-        <translation>Over Codecs</translation>
+        <translation>O programe Kodeky</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="208"/>
         <source>Codecs</source>
-        <translation>Codecs</translation>
+        <translation>Kodeky</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="208"/>
         <source>Version: </source>
-        <translation>Versie:</translation>
+        <translation>Verzia:</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="210"/>
         <source>Simple codecs downloader</source>
-        <translation>Eenvoudige codecs downloader</translation>
+        <translation>Jednoduchý inštalátor kodekov</translation>
     </message>
     <message>
         <location filename="codecs.cpp" line="211"/>
@@ -196,7 +196,7 @@
     <message>
         <location filename="codecs.cpp" line="212"/>
         <source>License</source>
-        <translation>Licentie</translation>
+        <translation>Licencia</translation>
     </message>
 </context>
 </TS>

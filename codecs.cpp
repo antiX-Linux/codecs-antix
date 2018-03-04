@@ -212,14 +212,14 @@ void codecs::on_buttonAbout_clicked() {
     msgBox.addButton(tr("License"), QMessageBox::AcceptRole);
     msgBox.addButton(tr("Cancel"), QMessageBox::RejectRole);
     if (msgBox.exec() == QMessageBox::AcceptRole)
-        system("mx-viewer file:///usr/share/doc/codecs/license.html 'MX Viewer License'");
+        system("antix-viewer file:///usr/share/doc/codecs/license.html 'MX Viewer License'");
     this->show();
 }
 
 // Help button clicked
 void codecs::on_buttonHelp_clicked() {
     this->hide();
-    system("mx-viewer https://mxlinux.org/wiki/help-files/help-mx-codecs-installer");
+    system("antix-viewer https://mxlinux.org/wiki/help-files/help-mx-codecs-installer");
     this->show();
 }
 
